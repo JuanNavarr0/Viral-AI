@@ -1,0 +1,18 @@
+.main-page {
+    flex: 1;
+    padding: 20px;
+}
+
+.main-page input {
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.main-page button {
+    padding: 10px 20px;
+    background: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
